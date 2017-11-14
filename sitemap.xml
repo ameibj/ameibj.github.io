@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://yoursite.com/2017/10/25/hexo%E9%83%A8%E7%BD%B2%E6%9E%84%E5%BB%BA/</loc>
+    
+    <lastmod>2017-11-07T08:27:29.582Z</lastmod>
+=======
+    <loc>http://yoursite.com/photo/index.html</loc>
+    
+    <lastmod>2017-11-10T06:27:54.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/music/index.html</loc>
+    
+    <lastmod>2017-11-10T06:27:54.288Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/10/18/webpack%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    
+<<<<<<< HEAD
+    <lastmod>2017-11-06T07:08:05.296Z</lastmod>
+=======
+    <lastmod>2017-11-10T06:27:54.271Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://yoursite.com/2017/11/11/git%E7%94%A8%E6%B3%95/</loc>
+    
+    <lastmod>2017-11-01T05:23:02.668Z</lastmod>
+=======
+    <loc>http://yoursite.com/2017/10/25/hexo%E9%83%A8%E7%BD%B2%E6%9E%84%E5%BB%BA/</loc>
+    
+    <lastmod>2017-11-10T06:27:54.267Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://yoursite.com/2017/11/08/hello-world/</loc>
+    
+    <lastmod>2017-10-26T04:52:56.392Z</lastmod>
+=======
+    <loc>http://yoursite.com/2017/11/10/hello-world/</loc>
+    
+    <lastmod>2017-11-10T06:27:54.200Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://yoursite.com/music/index.html</loc>
+    
+    <lastmod>2017-10-23T08:20:30.115Z</lastmod>
+=======
+    <loc>http://yoursite.com/2017/11/11/git%E7%94%A8%E6%B3%95/</loc>
+    
+    <lastmod>2017-11-10T06:27:54.199Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://yoursite.com/photo/index.html</loc>
+    
+    <lastmod>2017-10-23T08:20:30.113Z</lastmod>
+=======
+    <loc>http://yoursite.com/2017/11/09/echart%E5%9B%BE%E8%A1%A8%E8%87%AA%E9%80%82%E5%BA%94/</loc>
+    
+    <lastmod>2017-11-10T06:27:54.196Z</lastmod>
+>>>>>>> 2f1fd311977787f92ac55a3232a8f05aaf360636
+    
+  </url>
+  
+</urlset>
