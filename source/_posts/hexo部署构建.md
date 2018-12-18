@@ -235,7 +235,9 @@ Hexo部署到GitHub上的文件，是.md（你的博文）转化之后的.html�
            git add README.md
            git add .  // 把所有文件上传
            git commit -m "first commit" 
-           git remote add origin https://github.com/your-user-name/your-user-name.github.io.git
+           
+           // 添加ssh git@github.com:username/username.github.io.git可以省略每次的输入用户名和密码。
+           git remote add origin https://github.com/your-user-name/your-user-name.github.io.git 
            git push -u origin master
            
 3.在本地新建一个分支； 
